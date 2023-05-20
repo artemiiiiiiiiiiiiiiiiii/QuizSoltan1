@@ -18,13 +18,13 @@
             android:hint="Почта"
             android:inputType="text"
             android:text=""
-            android:textColor="@color/black60"
-            android:textColorHint="@color/black60"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
             android:textSize="20sp"
 
             app:met_floatingLabel="highlight"
-            app:met_baseColor="#0056d3"
-            app:met_primaryColor="#982360"
+            app:met_baseColor="#ffffff"
+            app:met_primaryColor="#ffffff"
             app:met_singleLineEllipsis="true"
             />
 
@@ -35,13 +35,13 @@
             android:hint="Пароль"
             android:inputType="textPassword"
             android:text=""
-            android:textColor="@color/black60"
-            android:textColorHint="@color/black60"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
             android:textSize="20sp"
 
             app:met_floatingLabel="highlight"
-            app:met_baseColor="#0056d3"
-            app:met_primaryColor="#982360"
+            app:met_baseColor="#ffffff"
+            app:met_primaryColor="#ffffff"
             app:met_singleLineEllipsis="true"
             />
 
