@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Авторизация</string>
+    <string name="startend">Регистрация</string>
+    <string name="back">Назад</string>
+    <string name="level1">Уровень:</string>
+    <string name="level1one">Уровень 1:</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="levelone">Какие из языков программирования поддерживают структурную парадигму как основную?</string>
+    <string name="leveloneend">Уровень пройден!</string>
+    <string name="leveltwo">Какие из животных - не хищные?</string>
+    <string name="leveltwoEnd">Уровень пройден!</string>
+</resources>

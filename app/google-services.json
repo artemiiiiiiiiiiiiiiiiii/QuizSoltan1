@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395188884228",
+    "project_id": "quizjavaproject",
+    "storage_bucket": "quizjavaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395188884228:android:e266c7df289c0eb73e3651",
+        "android_client_info": {
+          "package_name": "irlandec.prophet.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395188884228-qgpc2qb1u4jcj013na9441t2fc8jfrnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD71Efh8mq17_fJWdzLBFRQR0rKI60Y_08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395188884228-qgpc2qb1u4jcj013na9441t2fc8jfrnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
