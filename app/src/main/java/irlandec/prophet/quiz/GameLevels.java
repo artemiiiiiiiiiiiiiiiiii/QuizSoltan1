@@ -47,7 +47,7 @@ public class GameLevels extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try{
-                    if (level>=1) {
+                    if (level<=1) {
                         Intent intent = new Intent(GameLevels.this, Level1.class);
                         startActivity(intent);
                         finish();
@@ -66,7 +66,7 @@ public class GameLevels extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try{
-                    if(level>=2){
+                    if(level<=2){
                     Intent intent = new Intent(GameLevels.this, Level2.class);
                     startActivity(intent); finish();} else{
 
@@ -82,7 +82,7 @@ public class GameLevels extends AppCompatActivity {
             R.id.textView2,
         };
 
-        for(int i=1; i<level; i++) {
+        for(int i=1; i<=level; i++) {
             TextView tv = findViewById(x[i]);
             tv.setText(""+(i+1));
         }
